@@ -91,3 +91,6 @@ Sometimes you find edge cases like weird characters, unexpected elements, and so
 ### How to contribute
 
 Check out our [issues page](https://github.com/code4romania/catalog-data-chambers/issues). We regularly want to gather more data and do other changes. Your help is welcome! If you found an issue you would like to tackle, just post a short message about how you want to solve it (if the task is small enough, this might not be needed). If you have any problems with the setup or with understanding our architecture, don't hesitate to contact us!
+
+
+Test changes  
